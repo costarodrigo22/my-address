@@ -89,7 +89,7 @@ export default function Home(){
           cep && !error && (
             <Card>
               <div className="info">
-                <div className="contact-name">
+                <div className="cep-name">
                   <strong>{cep?.logradouro}</strong>
                   <small>{cep?.cep}</small>
                 </div>

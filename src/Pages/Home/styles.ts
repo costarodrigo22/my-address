@@ -118,7 +118,7 @@ export const Card = styled.div`
   }
 
   .info{
-    .contact-name{
+    .cep-name{
       display: flex;
       align-items: center;
 
